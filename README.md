@@ -1,3 +1,4 @@
 Aprendendo
-Como usar
-O git
+como usar
+o git
+com o professor Pietro Martins
