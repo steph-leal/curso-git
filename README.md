@@ -1,2 +1,3 @@
-Estudando git
-Segunda alteração do arquivo
+Aprendendo
+Como usar
+O git
